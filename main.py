@@ -69,3 +69,4 @@ while condition2:
 
 print("\nTotal People : [" + str(Person.number_of_people()) + "]")  # prints the total amount of people
 Person.print_list(Person.people)  # prints the list of people added to system
+print("k")
