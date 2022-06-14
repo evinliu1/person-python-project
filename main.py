@@ -29,6 +29,30 @@ class Person:  # class of people
             print(str(counter) + ". " + x.name + "\n")
 
 
+def printlist(list_):
+    counter = 0
+    for x in list_:
+        counter += 1
+        print(str(counter) + ". " + x.name + "\n")
+
+
+def s_name(name_, list_):
+    key = list_.name_
+    temp = []
+    for x in list_:
+        if list_.name == key:
+            temp.append(x)
+    printlist(list_)
+
+
+def s_age(age_, list_):
+    pass
+
+
+def s_sex(sex, list_):
+    pass
+
+
 condition = True  # controls whether you go back to the nested while loop
 condition2 = True  # controls whether you go back to the first while
 while condition2:
