@@ -1,8 +1,8 @@
-Personal Project (PYTHON):
-  Goals:
-  -Can successfully create a system of people and their attributes
-  -Users can navigate system to find specific objects by:
-    -inputting full name
-    -inputting name substring
-    -inputting object.attribute
-  -TBD
+# Personal Project (PYTHON):<br>
+&emsp;Goals:<br>
+&emsp;&emsp;-Can successfully create a system of people and their attributes<br>
+&emsp;&emsp;-Users can navigate system to find specific objects by:<br>
+&emsp;&emsp;&emsp;-inputting full name<br>
+&emsp;&emsp;&emsp;-inputting name substring<br>
+&emsp;&emsp;&emsp;-inputting object.attribute<br>
+&emsp;&emsp;-TBD<br>
